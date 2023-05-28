@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mechatronics**
 
-- 👯 I’m looking to collaborate on **ML,DL & NLP**
+- 👯 I’m looking to collaborate on **Blockchain,ML,DL & NLP**
 
 - 🤝 I’m looking for help with **Blockchain & AI**
 
