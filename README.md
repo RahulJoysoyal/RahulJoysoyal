@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Mechatronics**
 
-- 👯 I’m looking to collaborate on **Blockchain,ML,DL & NLP**
+- 👯 I’m looking to collaborate on **Blockchain,ML & NLP**
 
 - 🤝 I’m looking for help with **Blockchain & AI**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/rahuljoysoyal](https://www.kaggle.com/rahuljoysoyal)
 
-- 💬 Ask me about **ML,DL & NLP**
+- 💬 Ask me about **Blockchain,ML,DL & NLP**
 
 - 📫 How to reach me **rahuljoysoyal@gmail.com**
 
